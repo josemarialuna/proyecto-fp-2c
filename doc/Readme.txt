@@ -1,0 +1,1 @@
+En esta carpeta deberá incluirse el enunciado del proyecto en formato PDF
